@@ -14,9 +14,9 @@ body{
 
 .navbar{
     width: 1200px;
-    height: 75px;
-    margin: auto;
-    }
+    height: 20px;
+    margin:auto;
+}
 
 .icon{
     width: 200px;
@@ -64,9 +64,11 @@ ul li a:hover{
 }
 
 .search{
-    width: 330px;
+    width: 300px;
     float: left;
-    margin-left: 270px;
+    margin-left: 650px;
+    display: flex;
+    margin-top: -40px;
 }
 
 .srch{
